@@ -5,3 +5,6 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
+
+
+## I VIBE CODE IT 
